@@ -1,6 +1,7 @@
 body{
-    background-color:#009788;
-    font-family:"ruleway", sans-serif;
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 .container{
@@ -8,7 +9,7 @@ body{
 }
 
 p{
-    color:white;
+    color:lawngreen;
     font-size: 10vw;
 
 }
@@ -26,7 +27,7 @@ p{
 }
 .roundButton{
     border-radius: 50%;
-    background-color: white;
+    background-color:mediumorchid;
     border: 0;
     width: 5rem;
     height: 5rem;
@@ -42,7 +43,7 @@ p{
     width: 49%;
 }
 .selector{
-    background-color: white;
+    background-color:mediumpurple;
     padding: .8rem .0rem .9rem .8rem;
     width: 30%;
     border-radius: 5rem;
